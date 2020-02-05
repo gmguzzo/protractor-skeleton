@@ -5,7 +5,7 @@
   "author": "gabriel",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "ca-protractor-helper": "1.1.0",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
