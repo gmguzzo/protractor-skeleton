@@ -1,0 +1,15 @@
+{
+    "locators": {
+        "cmpBusca": {
+            "by": "xpath",
+            "value": "//input[@title='Pesquisar']"
+        },
+        "txtResult" : {
+            "collact" : {
+                "by": "xpath",
+                "value": "//h3[contains(text(),'Collact')]"
+            }
+        }
+
+    }
+}
